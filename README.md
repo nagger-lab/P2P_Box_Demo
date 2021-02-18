@@ -5,7 +5,7 @@ This is the demo for p2p, build by C.
 
 We use p2p to code a demo for it. 
 
-**NOTICE:** It just a demo, not a whole project, so if there're some problems, please create a new `Issue` to debug or `pull request` . If you did, we'll very lucky to see.
+**NOTICE:** It just a demo, not a whole project, so if there're some problems, please create a new `Issue` to debug or `pull request` . If you did, we'll be very lucky to see.
 
 ## How to Use
 
